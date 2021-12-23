@@ -9,7 +9,7 @@
 
 
 ### imagem do app sendo usado para calcular o metabilismo basal Feminino e todas as opções para manter, perder ou ganhar peso
-![imagem02](./assets/images/Cal03.png)
+![imagem02](./assets/images/Cal02.png)
 
 ### imagem do app sendo usado para calcular o metabilismo basal Masculino e todas as opções para manter, perder ou ganhar peso
-![imagem03](./assets/images/Cal02.png)
+![imagem03](./assets/images/Cal03.png)
